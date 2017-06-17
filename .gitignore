@@ -1,0 +1,5 @@
+# Python virtualenv
+venv/
+
+# Python Compiled Bytecode
+*.pyc
