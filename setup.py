@@ -14,6 +14,7 @@ setup(
         'Topic :: Utilities'
     ],
     description='Easily handle migrations in dev mode',
+    url='https://github.com/CheesecakeLabs/django-nomad',
     include_package_data=True,
     install_requires=['django'],
     name='django-nomad',
